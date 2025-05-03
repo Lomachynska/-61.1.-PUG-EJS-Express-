@@ -1,0 +1,17 @@
+{
+  "name": "-61.1.-pug-ejs-express-",
+  "version": "1.0.0",
+  "description": "ДЗ 61.1. Інтеграція шаблонізаторів PUG та EJS у існуючий Express сервер",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "pug": "^3.0.3"
+  }
+}
