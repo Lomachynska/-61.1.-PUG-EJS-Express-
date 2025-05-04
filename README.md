@@ -24,4 +24,21 @@ http://localhost:3000/users/1 — деталі користувача (PUG)
 http://localhost:3000/articles — список статей (EJS)
 http://localhost:3000/articles/1 — деталі статті (EJS)
 
+
+
 npm install express pug ejs
+
+http://localhost:3000/articles
+http://localhost:3000/users
+
+
+npm install serve-favicon
+
+
+ps aux | grep node
+
+завершити node
+kill 18869
+
+примусово завершити
+kill -9 18869
